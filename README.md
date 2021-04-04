@@ -5,7 +5,7 @@ My l33t dotfiles
 
 #####  First Screenshot
 <p>
-  i3wm</br>
+  i3wm + i3blocks</br>
   Ranger file manager</br>
   Cava</br>
   Ncmpcpp + Mopidy with soundcloud extension</br>
