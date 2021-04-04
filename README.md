@@ -12,6 +12,7 @@ My l33t dotfiles
   LukeSmith st terminal fork (https://github.com/LukeSmithxyz/st)</br>
   Neofetch</br>
   Zsh</br>
+  Tmux</br>
 </p>
 
 
