@@ -3,9 +3,9 @@ My l33t dotfiles
 
 #### Components
 <p>
-  Cava
-  Ncmpcpp + Mopidy with soundcloud extension
-  LukeSmith st terminal fork (https://github.com/LukeSmithxyz/st)
+  Cava</br>
+  Ncmpcpp + Mopidy with soundcloud extension</br>
+  LukeSmith st terminal fork (https://github.com/LukeSmithxyz/st)</br>
 </p>
 
 
