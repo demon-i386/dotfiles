@@ -10,6 +10,7 @@ My l33t dotfiles
   Ncmpcpp + Mopidy with soundcloud extension</br>
   LukeSmith st terminal fork (https://github.com/LukeSmithxyz/st)</br>
   Neofetch</br>
+  Zsh</br>
 </p>
 
 
