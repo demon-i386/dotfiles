@@ -18,4 +18,5 @@ My l33t dotfiles
 
 #### Screenshots
 
-<img src="cirnolinda.png">
+<img src="cirnolinda.png"></br>
+<img src="setupfoda.png"></br>
