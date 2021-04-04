@@ -3,8 +3,9 @@ My l33t dotfiles
 
 #### Components
 
-#####  1 Screenshot
+#####  First Screenshot
 <p>
+  Ranger file manager</br>
   Cava</br>
   Ncmpcpp + Mopidy with soundcloud extension</br>
   LukeSmith st terminal fork (https://github.com/LukeSmithxyz/st)</br>
