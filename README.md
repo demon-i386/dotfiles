@@ -2,6 +2,8 @@
 My l33t dotfiles
 
 #### Components
+
+#####  1 Screenshot
 <p>
   Cava</br>
   Ncmpcpp + Mopidy with soundcloud extension</br>
