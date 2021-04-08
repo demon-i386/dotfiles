@@ -21,3 +21,4 @@ My l33t dotfiles
 <img src="cirnolinda.png"></br>
 <img src="setupfoda.png"></br>
 <img src="setupfoda2.png"></br>
+<img src="stallmangostoso.png"></br>
