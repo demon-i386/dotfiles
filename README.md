@@ -13,6 +13,7 @@ My l33t dotfiles
   Neofetch</br>
   Zsh</br>
   Tmux</br>
+  Doom EMACS</br>
 </p>
 
 
